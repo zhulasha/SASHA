@@ -868,3 +868,47 @@ item []:
             xmin = 1712.096875
             xmax = 1729.279166
             text = "поэтому в эти страны не поеду больше никогда и зачем мне это надо"
+        intervals [214]:
+            xmin = 1729.279166
+            xmax = 1732.751041
+            text = ""
+        intervals [215]:
+            xmin = 1732.751041
+            xmax = 1737.397916
+            text = ""
+        intervals [216]:
+            xmin = 1737.397916
+            xmax = 1742.994791
+            text = ""
+        intervals [217]:
+            xmin = 1742.994791
+            xmax = 1750.426041
+            text = ""
+        intervals [218]:
+            xmin = 1750.426041
+            xmax = 1758.464583
+            text = ""
+        intervals [219]:
+            xmin = 1758.464583
+            xmax = 1765.970833
+            text = ""
+        intervals [220]:
+            xmin = 1765.970833
+            xmax = 1771.705208
+            text = ""
+        intervals [221]:
+            xmin = 1771.705208
+            xmax = 1775.948958
+            text = ""
+        intervals [222]:
+            xmin = 1775.948958
+            xmax = 1784.353125
+            text = ""
+        intervals [223]:
+            xmin = 1784.353125
+            xmax = 1792.897916
+            text = ""
+        intervals [224]:
+            xmin = 1792.897916
+            xmax = 1798.336458
+            text = ""

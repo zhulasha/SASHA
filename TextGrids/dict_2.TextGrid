@@ -724,3 +724,63 @@ item []:
             xmin = 1613.232291
             xmax = 1628.203125
             text = "правда убираться он по моему уже умеет или на самом деле я не особо разбираюсь в этой теме"
+        intervals [178]:
+            xmin = 1628.203125
+            xmax = 1633.45
+            text = ""
+        intervals [179]:
+            xmin = 1633.45
+            xmax = 1650.04375
+            text = ""
+        intervals [180]:
+            xmin = 1650.04375
+            xmax = 1655.689583
+            text = ""
+        intervals [181]:
+            xmin = 1655.689583
+            xmax = 1672.153125
+            text = ""
+        intervals [182]:
+            xmin = 1672.153125
+            xmax = 1676.027083
+            text = ""
+        intervals [183]:
+            xmin = 1676.027083
+            xmax = 1688.423958
+            text = ""
+        intervals [184]:
+            xmin = 1688.423958
+            xmax = 1697.763541
+            text = ""
+        intervals [185]:
+            xmin = 1697.763541
+            xmax = 1714.008333
+            text = ""
+        intervals [186]:
+            xmin = 1714.008333
+            xmax = 1719.114583
+            text = ""
+        intervals [187]:
+            xmin = 1719.114583
+            xmax = 1731.704166
+            text = ""
+        intervals [188]:
+            xmin = 1731.704166
+            xmax = 1741.084375
+            text = ""
+        intervals [189]:
+            xmin = 1741.084375
+            xmax = 1749.035416
+            text = ""
+        intervals [190]:
+            xmin = 1749.035416
+            xmax = 1757.678125
+            text = ""
+        intervals [191]:
+            xmin = 1757.678125
+            xmax = 1764.073958
+            text = ""
+        intervals [192]:
+            xmin = 1764.073958
+            xmax = 1766.154166
+            text = ""

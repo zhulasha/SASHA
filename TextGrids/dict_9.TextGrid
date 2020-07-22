@@ -868,3 +868,107 @@ item []:
             xmin = 1633.819791
             xmax = 1636.728125
             text = "появляется в жизни так вовремя но уходить так не вовремя и я считаю что этот фильм Очень добрый и поучительный о том что нужно любить до конца вне зависимости от того сколько тебе осталось жить Нужно радоваться каждому дню и каждой минуте"
+        intervals [214]:
+            xmin = 1636.728125
+            xmax = 1645.68125
+            text = ""
+        intervals [215]:
+            xmin = 1645.68125
+            xmax = 1659.166666
+            text = ""
+        intervals [216]:
+            xmin = 1659.166666
+            xmax = 1670.242708
+            text = ""
+        intervals [217]:
+            xmin = 1670.242708
+            xmax = 1684.495833
+            text = ""
+        intervals [218]:
+            xmin = 1684.495833
+            xmax = 1692.0875
+            text = ""
+        intervals [219]:
+            xmin = 1692.0875
+            xmax = 1701.107291
+            text = ""
+        intervals [220]:
+            xmin = 1701.107291
+            xmax = 1710.09375
+            text = ""
+        intervals [221]:
+            xmin = 1710.09375
+            xmax = 1721.473958
+            text = ""
+        intervals [222]:
+            xmin = 1721.473958
+            xmax = 1725.79375
+            text = ""
+        intervals [223]:
+            xmin = 1725.79375
+            xmax = 1728.20625
+            text = ""
+        intervals [224]:
+            xmin = 1728.20625
+            xmax = 1730.133333
+            text = ""
+        intervals [225]:
+            xmin = 1730.133333
+            xmax = 1738.31875
+            text = ""
+        intervals [226]:
+            xmin = 1738.31875
+            xmax = 1745.201041
+            text = ""
+        intervals [227]:
+            xmin = 1745.201041
+            xmax = 1762.477083
+            text = ""
+        intervals [228]:
+            xmin = 1762.477083
+            xmax = 1766.666666
+            text = ""
+        intervals [229]:
+            xmin = 1766.666666
+            xmax = 1772.016666
+            text = ""
+        intervals [230]:
+            xmin = 1772.016666
+            xmax = 1778.513541
+            text = ""
+        intervals [231]:
+            xmin = 1778.513541
+            xmax = 1787.338541
+            text = ""
+        intervals [232]:
+            xmin = 1787.338541
+            xmax = 1796.852083
+            text = ""
+        intervals [233]:
+            xmin = 1796.852083
+            xmax = 1812.426041
+            text = ""
+        intervals [234]:
+            xmin = 1812.426041
+            xmax = 1813.955208
+            text = ""
+        intervals [235]:
+            xmin = 1813.955208
+            xmax = 1831.038541
+            text = ""
+        intervals [236]:
+            xmin = 1831.038541
+            xmax = 1831.505208
+            text = ""
+        intervals [237]:
+            xmin = 1831.505208
+            xmax = 1846.532291
+            text = ""
+        intervals [238]:
+            xmin = 1846.532291
+            xmax = 1860.430208
+            text = ""
+        intervals [239]:
+            xmin = 1860.430208
+            xmax = 1862.594791
+            text = ""
